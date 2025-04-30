@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="My telegram">
+    <a href="https:/t.me/keedan">
       <img src="https://internet-lab.ru/sites/internet-lab.ru/files/2022-09/telegram.png" alt="Youtube Badge" width="300" height="100"/>
     </a>
   </div>
