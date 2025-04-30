@@ -18,12 +18,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a beginner web application developer in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
+- :telescope: I am currently studying full-time.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: In my free time I try to learn JS and Python more deeply
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I'll be trying my hand at team coding in the near future.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
