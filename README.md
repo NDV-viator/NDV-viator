@@ -25,8 +25,6 @@ I am a beginner web application developer in Python <img src="https://media.giph
 
 - :zap: I'll be trying my hand at team coding in the near future.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -50,7 +48,4 @@ I am a beginner web application developer in Python <img src="https://media.giph
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
